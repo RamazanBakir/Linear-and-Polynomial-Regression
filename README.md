@@ -9,7 +9,7 @@ In this regard, linear and polynomial regression estimation is examined. These t
 # Literature Review
 In order to follow the correct way in the evaluation of the project, the last projects, techniques, and technologies were examined. In our literature review, research articles between 2000-2018 the estimation was taken into consideration for accuracy. The more valued and cited papers are only considered for our literature review to get a strong foundation for implementing the project.
 Articles related to regression models, their use and applications are taken into consideration.
-#METHODOLOGY 
+# METHODOLOGY 
 In this section, regression model and estimation are used. In line with the researches, information is given about the project. We used 2 models: polynomial regression and linear regression. We experienced in our project which of these two models is important for us through trial and error. In short, Linear Regression is an analysis method that enables us to examine the statistical relationship between two scalar variables. In predictive (statistical) relationships, looking at some of the data we have, a hypothetical relationship is drawn between them.In order to make a prediction in linear regression, we need to create a model.
 This model is as follows;
 ```sh
